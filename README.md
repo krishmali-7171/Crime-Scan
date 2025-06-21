@@ -36,3 +36,37 @@ This project was developed as a showcase of face recognition technology integrat
 ---
 
 ## 📁 Project Structure
+## 📎 GitHub Repository
+
+🔗 [https://github.com/krishmali-7171/Crime-Scan](https://github.com/krishmali-7171/Crime-Scan)
+
+---
+
+## 📅 Project Info
+
+- **Project Name**: Crime Scan  
+- **Developer**: Krish Mali  
+- **Tech Focus**: Face Recognition, Flask, Web Security  
+- **Duration**: June 2025  
+- **Hosted**: Localhost (Can be deployed on Render or Railway)
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to:
+- 🧠 [`face_recognition`](https://github.com/ageitgey/face_recognition) – For the core face matching logic  
+- 💡 The open-source Python community  
+- 🔬 Tutorials by *Murtaza’s Workshop* and other helpful content creators  
+- 👨‍🏫 My mentors at [Prodigy InfoTech](https://prodigyinfotech.dev/) for fueling my learning path
+
+---
+
+## 👋 Connect With Me
+
+- 🔗 [LinkedIn – Krish Mali](https://linkedin.com/in/krishmali)  
+- 💻 [GitHub – krishmali-7171](https://github.com/krishmali-7171)  
+
+---
+
+> 🔐 **Note**: This project is for educational purposes and not intended for use in actual law enforcement or surveillance systems.
